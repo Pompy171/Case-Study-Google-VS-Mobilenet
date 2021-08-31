@@ -1,0 +1,47 @@
+body{
+    background-color: lightseagreen;
+}
+.header_div{
+    text-align: center;
+}
+.header_div span{
+    color:magenta;
+    margin-top: 10px;
+}
+.vs img{
+    height: 75px;
+    width: 100px;
+} 
+.img_compare{
+    background-color: cyan;
+    height: 600px;
+    width: 850px;
+    border-radius: 20px;
+    border: dotted 3px darkblue;
+    text-align: left;padding-left: 50px;
+    vertical-align: top;
+    margin-top: 100px;
+    box-shadow: 10px 10px 10px snow;
+}
+.img_compare img{
+    height: 500;
+}
+.results_compare_spans{
+    width: 250px;
+    line-height: 3;
+
+}
+.output{
+    text-align: center  ;
+}
+.Final_div{
+    border: solid 5px skyblue;
+    margin-bottom: 100px;
+    width: fit-content;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 25px;
+    padding: 30px;
+    background-color: snow;
+    box-shadow: 5px 5px 10px snow;
+}
